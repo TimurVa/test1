@@ -1,0 +1,20 @@
+[
+  {
+    "position":"manager",
+    "salary": "150000",
+    "bonus": "0"
+  },
+  {
+    "position":"technician",
+    "salary": "35000",
+    "bonus": "5000",
+    "category": "B"
+  },
+  {
+    "position":"driver",
+    "salary": "250",
+    "bonus": "10000",
+    "timeWorked": "80",
+    "category": "A"
+  }
+]

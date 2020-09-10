@@ -1,0 +1,49 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="BackgroundLightGray">#FF3E3E42</Color>
+    <SolidColorBrush x:Key="BackgroundLightGrayBrush" Color="{StaticResource BackgroundLightGray}"/>
+
+    <Color x:Key="BackgroundTurquoise">#FF67D2D4</Color>
+    <SolidColorBrush x:Key="BackgroundTurquoiseBrush" Color="{StaticResource BackgroundTurquoise}"/>
+
+    <Color x:Key="BackgroundDarkGray">#FF252526</Color>
+    <SolidColorBrush x:Key="BackgroundDarkGrayBrush" Color="{StaticResource BackgroundDarkGray}"/>
+
+    <Color x:Key="BackgroundLighter">#86898D</Color>
+    <SolidColorBrush x:Key="BackgroundLighterGrayBrush" Color="{StaticResource BackgroundLighter}"/>
+
+    <Color x:Key="BackgroundOpacity">#FFB4B2B2</Color>
+    <SolidColorBrush x:Key="BackgroundOpacityBrush" Color="{StaticResource BackgroundOpacity}"/>
+
+    <Color x:Key="BackgroundMostLight">#EBEBEB</Color>
+    <SolidColorBrush x:Key="BackgroundMostLightBrush" Color="{StaticResource BackgroundMostLight}"/>
+
+    <Color x:Key="BackgroundLightBlue">#4397CE</Color>
+    <SolidColorBrush x:Key="BackgroundLightBlueBrush" Color="{StaticResource BackgroundLightBlue}"/>
+
+    <Color x:Key="CanvasBackground">#7C8382</Color>
+    <SolidColorBrush x:Key="CanvasBackgroundBrush" Color="{StaticResource CanvasBackground}"/>
+    <!--FF393939 bg color of whole-->
+    <Color x:Key="VisualStudioTabControlColor">#FF007ACC</Color>
+    <SolidColorBrush x:Key="VisualStudioTabControlBrush" Color="{StaticResource VisualStudioTabControlColor}"/>
+
+    <Color x:Key="VisualStudioTabControlDarkerColor">#586A77</Color>
+    <SolidColorBrush x:Key="VisualStudioTabControlDarkerBrush" Color="{StaticResource VisualStudioTabControlDarkerColor}"/>
+
+    <Color x:Key="LinkdInColor">#FF283E4A</Color>
+    <SolidColorBrush x:Key="LinkdInBrush" Color="{StaticResource LinkdInColor}"/>
+
+    <Color x:Key="ilearSalatColor">#FF2A8188</Color>
+    <SolidColorBrush x:Key="ilearSalatBrush" Color="{StaticResource ilearSalatColor}"/>
+
+    <Color x:Key="iLearnBlueButtonEllipseColor">#FF7092BE</Color>
+    <SolidColorBrush x:Key="iLearnBlueButtonEllipseBrush" Color="{StaticResource iLearnBlueButtonEllipseColor}"/>
+
+    <Color x:Key="BackgroundiLearnLightGrayColor">#D5D5D5</Color>
+    <SolidColorBrush x:Key="BackgroundiLearnLightGrayBrush" Color="{StaticResource BackgroundiLearnLightGrayColor}"/>
+
+    <Color x:Key="jimColor">#FF292C2B</Color>
+    <SolidColorBrush x:Key="jimColorBrush" Color="{StaticResource jimColor}"/>
+    
+</ResourceDictionary>
